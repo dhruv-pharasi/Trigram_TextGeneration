@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a text generation model using a trigram-based approach. The model learns the probabilities of word sequences from input text and generates realistic sentences by predicting the next word based on the current context. It supports live text generation and dynamic random starting sequences.
+This project implements a text generation model using a trigram-based approach. The model learns the probabilities of word sequences from input text and generates realistic sentences by predicting the next word based on the current context.
 
 ## Features
 
@@ -26,8 +26,7 @@ This project implements a text generation model using a trigram-based approach. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhruv-pharasi/trigram-text-generation.git
-   cd trigram-text-generation
+   git clone https://github.com/dhruv-pharasi/Trigram_TextGeneration.git
    ```
 2. Ensure you have Python installed.
 3. Install additional libraries if required (e.g., for preprocessing).
