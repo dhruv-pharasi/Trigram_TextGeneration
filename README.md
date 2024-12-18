@@ -39,7 +39,7 @@ This project implements a text generation model using a trigram-based approach. 
 2. Preprocess the text (clean, tokenize, etc.) and feed it into the model.
 3. Build trigram and bigram frequency dictionaries:
    ```python
-   trigram_counts, bigram_counts = build_trigram_counts(words)
+   trigram_counts, bigram_counts = build_trigram_model(words)
    ```
 
 ### Generate Text
